@@ -45,7 +45,7 @@ CLASS main IMPLEMENTATION.
         salv_table->get_functions( )->set_all( ).
         salv_table->display( ).
       CATCH cx_salv_msg.
-        MESSAGE `Não foi possível gerar a lista` TYPE 'E'.
+        MESSAGE `Não foi possível gerar a lista de valores` TYPE 'E'.
         LEAVE LIST-PROCESSING.
     ENDTRY.
 
