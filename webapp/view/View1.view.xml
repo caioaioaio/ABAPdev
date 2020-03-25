@@ -1,0 +1,17 @@
+<mvc:View controllerName="com.numenit.HelloWorld.controller.View1" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m">
+	<Shell id="shell">
+		<App id="app">
+			<pages>
+				<Page id="page" title="{i18n>title}">
+					<headerContent>
+						<Button icon="sap-icon://hello-world" press=".onOpenDialog" tooltip="{i18n>openDialogButtonText}"/>
+					</headerContent>
+					<content>
+						<mvc:XMLView viewName="com.numenit.HelloWorld.view.HelloPanel"/>
+						<mvc:XMLView viewName="com.numenit.HelloWorld.view.InvoiceList"/>
+					</content>
+				</Page>
+			</pages>
+		</App>
+	</Shell>
+</mvc:View>
