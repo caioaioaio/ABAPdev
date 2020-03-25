@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCMA_CALC</CLSNAME>
+    <LANGU>P</LANGU>
+    <DESCRIPT>Basic Calculator</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCMA_CALC</CLSNAME>
+     <CMPNAME>DIVIDE</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Divide two values and return the result</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCMA_CALC</CLSNAME>
+     <CMPNAME>FIBONACCI_SEQ</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Returns a stretch of the Fibonacci sequence</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCMA_CALC</CLSNAME>
+     <CMPNAME>FIBONACCI_SEQ_TABLE</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Returns a stretch of the Fibonacci sequence as a table</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCMA_CALC</CLSNAME>
+     <CMPNAME>MULTIPLY</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Multiply two values and return the result</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCMA_CALC</CLSNAME>
+     <CMPNAME>SUBTRACT</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Subtract two values and return the result</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCMA_CALC</CLSNAME>
+     <CMPNAME>SUM</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Sum two values and return the result</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCMA_CALC</CLSNAME>
+     <CMPNAME>TEST</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Tests exceptions</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

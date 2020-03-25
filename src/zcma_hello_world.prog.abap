@@ -1,0 +1,2 @@
+REPORT ZCMA_HELLO_WORLD.
+WRITE 'Hello World!'.

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCMA_HELLO_WORD</CLSNAME>
+    <LANGU>P</LANGU>
+    <DESCRIPT>Olá mundo</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCMA_HELLO_WORD</CLSNAME>
+     <CMPNAME>CLASS_CONSTRUCTOR</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>CLASS_CONSTRUCTOR</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCMA_HELLO_WORD</CLSNAME>
+     <CMPNAME>GET_AREA</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Retorna o valor da área</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCMA_HELLO_WORD</CLSNAME>
+     <CMPNAME>GET_PI</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Retorna o valor de pi</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCMA_HELLO_WORD</CLSNAME>
+     <CMPNAME>GET_RADIUS</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Retorna o valor do raio</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCMA_HELLO_WORD</CLSNAME>
+     <CMPNAME>MAIN</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>IMPRIME HELLO WORLD</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCMA_HELLO_WORD</CLSNAME>
+     <CMPNAME>SET_PI</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Inicia o valor de pi</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCMA_HELLO_WORD</CLSNAME>
+     <CMPNAME>SET_RADIUS</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Altera o Radius</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

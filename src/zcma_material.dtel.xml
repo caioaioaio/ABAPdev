@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZCMA_MATERIAL</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <SCRLEN1>03</SCRLEN1>
+    <SCRLEN2>08</SCRLEN2>
+    <DDTEXT>Test Material</DDTEXT>
+    <SCRTEXT_S>mat</SCRTEXT_S>
+    <SCRTEXT_M>Material</SCRTEXT_M>
+    <DTELMASTER>P</DTELMASTER>
+    <DATATYPE>NUMC</DATATYPE>
+    <LENG>000018</LENG>
+    <OUTPUTLEN>000018</OUTPUTLEN>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>P</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>P</DDLANGUAGE>
+     <DDTEXT>Material de Teste</DDTEXT>
+     <SCRTEXT_S>MAT</SCRTEXT_S>
+     <SCRTEXT_M>MATERIAL</SCRTEXT_M>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

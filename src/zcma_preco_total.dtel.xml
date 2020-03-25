@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZCMA_PRECO_TOTAL</ROLLNAME>
+    <SCRLEN1>04</SCRLEN1>
+    <SCRLEN2>07</SCRLEN2>
+    <SCRLEN3>11</SCRLEN3>
+    <DTELMASTER>P</DTELMASTER>
+    <DATATYPE>DEC</DATATYPE>
+    <LENG>000015</LENG>
+    <DECIMALS>000003</DECIMALS>
+    <OUTPUTLEN>000019</OUTPUTLEN>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>P</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>P</DDLANGUAGE>
+     <DDTEXT>Preço Total de Teste</DDTEXT>
+     <SCRTEXT_S>PRCT</SCRTEXT_S>
+     <SCRTEXT_M>PRECO T</SCRTEXT_M>
+     <SCRTEXT_L>PRECO TOTAL</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
